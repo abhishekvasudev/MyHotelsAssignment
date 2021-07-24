@@ -22,5 +22,5 @@ MVVM
 1) Validation logic to prevent add two hotels of same name <br>
 2) Navigation logic to help maintain data flow smoothly <br>
 
-## GIF
-<a href=""><img src="Video/MyHotelsAppGif.gif" title="My Hotels App"/></a>
+## Video
+You can check out the video in the Video folder
